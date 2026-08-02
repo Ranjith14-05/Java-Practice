@@ -16,5 +16,6 @@ public class avg_sum {
         }
         System.out.println("The Sum Of Given Number is :" + sum);
         System.out.println("The Average of Given Numbers is :"+sum/n);
+        scan.close();
     }
 }
