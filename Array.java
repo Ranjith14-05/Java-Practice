@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Array {
     public static void main(String[] args) {
         // Declaring The Array
@@ -22,5 +24,9 @@ public class Array {
         for (int val:a){
             System.out.println(val);
         }
+
+        //Printing Array Using Inbuilt Function
+        //! Must Import Arrays class using java.util
+        System.out.println(Arrays.toString(a));
     }
 }
