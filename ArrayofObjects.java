@@ -1,3 +1,5 @@
+//An array of objects is an array where each element stores a reference to an object of the same class.
+
 class Student2{
     String name;
     int age;
