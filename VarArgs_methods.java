@@ -1,3 +1,6 @@
+//Varargs allows a method to accept a variable number of arguments. In Java, varargs is represented using three dots (...) and is internally treated as an array.
+
+
 public class VarArgs_methods {
 
     public static void GetName(String... name){
