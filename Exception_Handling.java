@@ -13,5 +13,6 @@ public class Exception_Handling {
             System.out.println(e);
         }
         System.out.println("Program Ended");
+        scan.close();
     }
 }
